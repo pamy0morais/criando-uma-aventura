@@ -15,3 +15,11 @@ button{
     color: rgb(0, 0, 0);
     ont-family: "Pirata One", system-ui;
 }
+
+.passo {
+display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
